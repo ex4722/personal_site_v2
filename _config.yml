@@ -1,0 +1,9 @@
+name: Solar Theme
+url: http://example.org
+description: Quick 6 word blurb
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
